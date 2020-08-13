@@ -679,11 +679,12 @@ Functions</h2></td></tr>
 <tr class="separator:a08cde33ef96521d27d374dd7bc91db68"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8890651ed8be29749de779ed504f39f0"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a8890651ed8be29749de779ed504f39f0">operator&lt;&lt;</a> (std::ostream &amp;os, const MinuitParameter &amp;type)</td></tr>
 <tr class="separator:a8890651ed8be29749de779ed504f39f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3cb033d23adaf54c41a10421e57b3b7"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:ae3cb033d23adaf54c41a10421e57b3b7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:ae3cb033d23adaf54c41a10421e57b3b7"><td class="memTemplItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#ae3cb033d23adaf54c41a10421e57b3b7">operator&lt;&lt;</a> (std::ostream &amp;os, const <a class="el" href="../../d9/d1b/class_amp_gen_1_1_named_parameter.html">NamedParameter</a>&lt; T &gt; &amp;np)</td></tr>
 <tr class="separator:ae3cb033d23adaf54c41a10421e57b3b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9d2f5ea66e0f8ae4003d76fd86435db"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#ac9d2f5ea66e0f8ae4003d76fd86435db">optionalHelpString</a> (const std::string &amp;header, const std::vector&lt; std::pair&lt; std::string, std::string &gt;&gt; &amp;args)</td></tr>
-<tr class="separator:ac9d2f5ea66e0f8ae4003d76fd86435db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e658855d9869b33e04908ebf1bfca73"><td class="memTemplParams" colspan="2">template&lt;typename ... T&gt; </td></tr>
+<tr class="memitem:a6e658855d9869b33e04908ebf1bfca73"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a6e658855d9869b33e04908ebf1bfca73">optionalHelpString</a> (const std::string &amp;header, const T &amp;... args)</td></tr>
+<tr class="separator:a6e658855d9869b33e04908ebf1bfca73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0c1879c0c4361896d0298646f224adeb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a0c1879c0c4361896d0298646f224adeb">declare_enum</a> (spinFormalism, Covariant, Canonical) declare_enum(spinBasis</td></tr>
 <tr class="separator:a0c1879c0c4361896d0298646f224adeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3801e11d81c553bbba478110b18b2690"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a3801e11d81c553bbba478110b18b2690">operator&lt;&lt;</a> (std::ostream &amp;os, const <a class="el" href="../../de/dd7/class_amp_gen_1_1_particle.html">Particle</a> &amp;particle)</td></tr>
@@ -4546,7 +4547,7 @@ template&lt;class T , typename std::enable_if_t&lt; hasConstructor&lt; Constant,
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class T &gt; </div>
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">std::ostream &amp; AmpGen::operator&lt;&lt; </td>
@@ -4568,7 +4569,7 @@ template&lt;class T &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d78/_named_parameter_8h_source.html#l00157">157</a> of file <a class="el" href="../../df/d78/_named_parameter_8h_source.html">NamedParameter.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d78/_named_parameter_8h_source.html#l00156">156</a> of file <a class="el" href="../../df/d78/_named_parameter_8h_source.html">NamedParameter.h</a>.</p>
 
 </div>
 </div>
@@ -4908,11 +4909,13 @@ template&lt;class T &gt; </div>
 
 </div>
 </div>
-<a id="ac9d2f5ea66e0f8ae4003d76fd86435db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9d2f5ea66e0f8ae4003d76fd86435db">&#9670;&nbsp;</a></span>optionalHelpString()</h2>
+<a id="a6e658855d9869b33e04908ebf1bfca73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e658855d9869b33e04908ebf1bfca73">&#9670;&nbsp;</a></span>optionalHelpString()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename ... T&gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">std::string AmpGen::optionalHelpString </td>
@@ -4923,7 +4926,7 @@ template&lt;class T &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const std::vector&lt; std::pair&lt; std::string, std::string &gt;&gt; &amp;&#160;</td>
+          <td class="paramtype">const T &amp;...&#160;</td>
           <td class="paramname"><em>args</em>&#160;</td>
         </tr>
         <tr>
@@ -4933,6 +4936,8 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../df/d78/_named_parameter_8h_source.html#l00167">167</a> of file <a class="el" href="../../df/d78/_named_parameter_8h_source.html">NamedParameter.h</a>.</p>
 
 </div>
 </div>
@@ -6943,7 +6948,7 @@ template&lt;class it_type , class F &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d82/namespace_amp_gen.html">AmpGen</a></li>
-    <li class="footer">Generated on Wed Aug 12 2020 09:26:34 for AmpGen by <a href="http://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.8.19 </li>
+    <li class="footer">Generated on Thu Aug 13 2020 13:13:18 for AmpGen by <a href="http://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.8.19 </li>
   </ul>
 </div>
 </body>

@@ -39,7 +39,7 @@ var searchData=
   ['operator_5e_709',['operator^',['../dc/daa/namespace_amp_gen_1_1_a_v_x2d.html#a46af9c25bc0c81fe4573954af9fc390e',1,'AmpGen::AVX2d::operator^()'],['../df/db6/namespace_amp_gen_1_1_a_v_x2f.html#a8977ae64be6d711eb313e5bb69d8a490',1,'AmpGen::AVX2f::operator^()'],['../da/d1b/namespace_amp_gen_1_1_a_v_x512d.html#a770930590a081f5329d29998db93bfa9',1,'AmpGen::AVX512d::operator^()']]],
   ['operator_7c_710',['operator|',['../dc/daa/namespace_amp_gen_1_1_a_v_x2d.html#a69babe2e8817f33d166ebb2cdf99139e',1,'AmpGen::AVX2d::operator|()'],['../df/db6/namespace_amp_gen_1_1_a_v_x2f.html#aaeb7ba9f62ef1c95299603bdbadf9cea',1,'AmpGen::AVX2f::operator|()'],['../da/d1b/namespace_amp_gen_1_1_a_v_x512d.html#a33f407398f0aceb7e62a74b690afca00',1,'AmpGen::AVX512d::operator|()']]],
   ['operator_7c_7c_711',['operator||',['../dc/daa/namespace_amp_gen_1_1_a_v_x2d.html#ae63b452828051639e22f3311e0e62092',1,'AmpGen::AVX2d::operator||()'],['../df/db6/namespace_amp_gen_1_1_a_v_x2f.html#a182171910504d6d455b81e5113346d37',1,'AmpGen::AVX2f::operator||()'],['../da/d1b/namespace_amp_gen_1_1_a_v_x512d.html#a028a583c24767ff5f16fd9cb3978bef8',1,'AmpGen::AVX512d::operator||()']]],
-  ['optionalhelpstring_712',['optionalHelpString',['../dc/d82/namespace_amp_gen.html#ac9d2f5ea66e0f8ae4003d76fd86435db',1,'AmpGen']]],
+  ['optionalhelpstring_712',['optionalHelpString',['../dc/d82/namespace_amp_gen.html#a6e658855d9869b33e04908ebf1bfca73',1,'AmpGen']]],
   ['optionsparser_713',['OptionsParser',['../d8/d73/class_amp_gen_1_1_options_parser.html',1,'AmpGen']]],
   ['optionsparser_2eh_714',['OptionsParser.h',['../de/d3c/_options_parser_8h.html',1,'']]],
   ['orbital_5fdwave_715',['Orbital_DWave',['../d0/de8/group___vertices.html#ga8ba3d6acfc1b1df18ef7645f4f8e39d0',1,'AmpGen']]],
