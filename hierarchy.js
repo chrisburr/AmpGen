@@ -81,7 +81,11 @@ var hierarchy =
       [ "AmpGen::Vertex::V_TS_P", "d4/ddc/struct_amp_gen_1_1_vertex_1_1_v___t_s___p.html", null ],
       [ "AmpGen::Vertex::V_VS_D", "dd/d05/struct_amp_gen_1_1_vertex_1_1_v___v_s___d.html", null ],
       [ "AmpGen::Vertex::V_VS_P", "dc/d7a/struct_amp_gen_1_1_vertex_1_1_v___v_s___p.html", null ],
-      [ "AmpGen::Vertex::V_VS_S", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html", null ]
+      [ "AmpGen::Vertex::V_VS_S", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html", null ],
+      [ "AmpGen::Vertex::V_VV_P", "db/de9/struct_amp_gen_1_1_vertex_1_1_v___v_v___p.html", null ],
+      [ "AmpGen::Vertex::V_VV_P1", "dc/def/struct_amp_gen_1_1_vertex_1_1_v___v_v___p1.html", null ],
+      [ "AmpGen::Vertex::V_VV_P2", "dd/d48/struct_amp_gen_1_1_vertex_1_1_v___v_v___p2.html", null ],
+      [ "AmpGen::Vertex::V_VV_S", "d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html", null ]
     ] ],
     [ "AmpGen::Bilinears", "d1/d6c/class_amp_gen_1_1_bilinears.html", null ],
     [ "AmpGen::BinDT", "dc/d42/class_amp_gen_1_1_bin_d_t.html", null ],

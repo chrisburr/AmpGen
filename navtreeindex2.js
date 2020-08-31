@@ -80,6 +80,11 @@ var NAVTREEINDEX2 =
 "d3/d77/class_amp_gen_1_1_cos.html#a9691967573670594c693eb3506b9b237":[0,0,28,5],
 "d3/d77/class_amp_gen_1_1_cos.html#a992284444f0f1d189d1667c541b78da5":[0,0,28,4],
 "d3/d77/class_amp_gen_1_1_cos.html#ab48df0ac43b2fe942f90f603d03a01e3":[0,0,28,3],
+"d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html":[3,0,6,54],
+"d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html#a636635d425473883797935c99ffb8156":[3,0,6,54,1],
+"d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html#a7a743fa14ff78f1905e4a609a6f84f1a":[3,0,6,54,3],
+"d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html#aea3bb25c2377385899de4498cf6f21a3":[3,0,6,54,0],
+"d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html#aefbf7403d1ddefd0bbd18675367cc211":[3,0,6,54,2],
 "d3/d7b/namespace_amp_gen_1_1utils.html":[1,0,7],
 "d3/d7b/namespace_amp_gen_1_1utils.html":[3,0,5],
 "d3/d7c/struct_amp_gen_1_1_fit_fraction_calculator.html":[3,0,50],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "d4/d0e/class_amp_gen_1_1_tensor.html#ac802a94e709e23fdc2ddbeb2e45b61c6":[3,0,118,24],
 "d4/d0e/class_amp_gen_1_1_tensor.html#acc3c41b8f0103c12d9a846c8359e8285":[3,0,118,30],
 "d4/d0e/class_amp_gen_1_1_tensor.html#accb0b22fb068a9598273277b01647671":[3,0,118,43],
-"d4/d0e/class_amp_gen_1_1_tensor.html#af1b9532a87aa419306d5cf7476947099":[3,0,118,1],
-"d4/d0e/class_amp_gen_1_1_tensor.html#af471af28ef411c791b660c5d1cd2043a":[3,0,118,12],
-"d4/d0e/class_amp_gen_1_1_tensor.html#af9fa12afac75428b248079f94648dce1":[3,0,118,27],
-"d4/d0e/class_amp_gen_1_1_tensor.html#aff323ea2f1b8e1c512b2db2422cc85d0":[3,0,118,13],
-"d4/d15/_particle_8h.html":[7,0,47],
-"d4/d15/_particle_8h.html#a0c1879c0c4361896d0298646f224adeb":[7,0,47,1]
+"d4/d0e/class_amp_gen_1_1_tensor.html#af1b9532a87aa419306d5cf7476947099":[3,0,118,1]
 };
