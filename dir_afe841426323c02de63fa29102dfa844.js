@@ -60,6 +60,7 @@ var dir_afe841426323c02de63fa29102dfa844 =
       [ "FitResult", "d4/d2d/class_amp_gen_1_1_fit_result.html", "d4/d2d/class_amp_gen_1_1_fit_result" ]
     ] ],
     [ "Generator.h", "d8/dc5/_generator_8h.html", "d8/dc5/_generator_8h" ],
+    [ "gsl_wrapper.h", "db/d3a/gsl__wrapper_8h.html", "db/d3a/gsl__wrapper_8h" ],
     [ "IExtendLikelihood.h", "d8/d79/_i_extend_likelihood_8h.html", [
       [ "IExtendLikelihood", "d8/d9d/class_amp_gen_1_1_i_extend_likelihood.html", "d8/d9d/class_amp_gen_1_1_i_extend_likelihood" ],
       [ "GaussianConstraint", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html", "d7/deb/class_amp_gen_1_1_gaussian_constraint" ],

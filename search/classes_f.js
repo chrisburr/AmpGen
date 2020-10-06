@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['quarkcontent_1305',['QuarkContent',['../de/d21/class_amp_gen_1_1_quark_content.html',1,'AmpGen']]],
-  ['quarkstate_1306',['QuarkState',['../d3/d23/class_amp_gen_1_1_quark_state.html',1,'AmpGen']]]
+  ['quarkcontent_1316',['QuarkContent',['../de/d21/class_amp_gen_1_1_quark_content.html',1,'AmpGen']]],
+  ['quarkstate_1317',['QuarkState',['../d3/d23/class_amp_gen_1_1_quark_state.html',1,'AmpGen']]]
 ];

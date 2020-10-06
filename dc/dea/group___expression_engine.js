@@ -79,7 +79,8 @@ var group___expression_engine =
       [ "operator()", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#a48967e4b369644097b874c335c2eee6a", null ],
       [ "resolve", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#abeef0d45513046dd618379cde702269d", null ],
       [ "to_string", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#a6b1a7647552419f7ee8fd03edceec6b9", null ],
-      [ "m_function", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#aa5f78a6a3809e3f3d0f6f713aca3b062", null ]
+      [ "m_function", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#aa5f78a6a3809e3f3d0f6f713aca3b062", null ],
+      [ "m_name", "d6/d1d/class_amp_gen_1_1_lambda_expression.html#ac14c3fbe9d1d3d6e4d09164dcc98902e", null ]
     ] ],
     [ "Ternary", "de/d94/class_amp_gen_1_1_ternary.html", [
       [ "Ternary", "de/d94/class_amp_gen_1_1_ternary.html#a3280a3bc08a84f6964bee0225830e0e8", null ],
@@ -198,6 +199,28 @@ var group___expression_engine =
       [ "lval", "db/d51/class_amp_gen_1_1_greater_than.html#aaa65895168cacd589872ad7d0697a0ad", null ],
       [ "rval", "db/d51/class_amp_gen_1_1_greater_than.html#aaa7a49341e2818be115b3533a268330b", null ]
     ] ],
+    [ "LessThanEqualTo", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html", [
+      [ "LessThanEqualTo", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#ae16587b39a852ed74bd452cd9c6b9da2", null ],
+      [ "l", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#a53dfab7ecb432b99e9cb33f135edeeb6", null ],
+      [ "operator Expression", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#ac8216ede8f252d24493ecf16dff0f6e0", null ],
+      [ "operator()", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#a9f40375261c38e37fbfe3247749e8a12", null ],
+      [ "r", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#a3a754979b117952e7a39a7425ddada0b", null ],
+      [ "resolve", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#a1b55a1e8075784c54524d62ad8df046a", null ],
+      [ "to_string", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#a424d3ac6ce4e769d97ede029255b83d5", null ],
+      [ "lval", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#aaa65895168cacd589872ad7d0697a0ad", null ],
+      [ "rval", "da/d7a/class_amp_gen_1_1_less_than_equal_to.html#aaa7a49341e2818be115b3533a268330b", null ]
+    ] ],
+    [ "GreaterThanEqualTo", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html", [
+      [ "GreaterThanEqualTo", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#a81bdee95c3367b1b004420e9179e26c0", null ],
+      [ "l", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#a53dfab7ecb432b99e9cb33f135edeeb6", null ],
+      [ "operator Expression", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#a12efd3a7ee3d541ad85313cdfd41106b", null ],
+      [ "operator()", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#ab638c7babcdcd5d7de37b15a2d22bd62", null ],
+      [ "r", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#a3a754979b117952e7a39a7425ddada0b", null ],
+      [ "resolve", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#a1b55a1e8075784c54524d62ad8df046a", null ],
+      [ "to_string", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#afb1b48f47573e54e3588d9cae9395e78", null ],
+      [ "lval", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#aaa65895168cacd589872ad7d0697a0ad", null ],
+      [ "rval", "d3/def/class_amp_gen_1_1_greater_than_equal_to.html#aaa7a49341e2818be115b3533a268330b", null ]
+    ] ],
     [ "And", "d2/db0/class_amp_gen_1_1_and.html", [
       [ "And", "d2/db0/class_amp_gen_1_1_and.html#a2423274bd8a72fd37c9d7a48f255f117", null ],
       [ "l", "d2/db0/class_amp_gen_1_1_and.html#a53dfab7ecb432b99e9cb33f135edeeb6", null ],
@@ -208,6 +231,17 @@ var group___expression_engine =
       [ "to_string", "d2/db0/class_amp_gen_1_1_and.html#ae89e6659e8f1eed37ef79b6c2c4d0002", null ],
       [ "lval", "d2/db0/class_amp_gen_1_1_and.html#aaa65895168cacd589872ad7d0697a0ad", null ],
       [ "rval", "d2/db0/class_amp_gen_1_1_and.html#aaa7a49341e2818be115b3533a268330b", null ]
+    ] ],
+    [ "Or", "d9/d23/class_amp_gen_1_1_or.html", [
+      [ "Or", "d9/d23/class_amp_gen_1_1_or.html#a977f0d673fe512ac8e9afbd0d1d17654", null ],
+      [ "l", "d9/d23/class_amp_gen_1_1_or.html#a53dfab7ecb432b99e9cb33f135edeeb6", null ],
+      [ "operator Expression", "d9/d23/class_amp_gen_1_1_or.html#ae2767ccfcba8bf492247b1aa69a787af", null ],
+      [ "operator()", "d9/d23/class_amp_gen_1_1_or.html#aeb9f83f14c62ac76e7007fd02248ea23", null ],
+      [ "r", "d9/d23/class_amp_gen_1_1_or.html#a3a754979b117952e7a39a7425ddada0b", null ],
+      [ "resolve", "d9/d23/class_amp_gen_1_1_or.html#a1b55a1e8075784c54524d62ad8df046a", null ],
+      [ "to_string", "d9/d23/class_amp_gen_1_1_or.html#a004cba4d169af1b088a38cfb3338b2ff", null ],
+      [ "lval", "d9/d23/class_amp_gen_1_1_or.html#aaa65895168cacd589872ad7d0697a0ad", null ],
+      [ "rval", "d9/d23/class_amp_gen_1_1_or.html#aaa7a49341e2818be115b3533a268330b", null ]
     ] ],
     [ "IUnaryExpression", "d5/d3f/class_amp_gen_1_1_i_unary_expression.html", [
       [ "IUnaryExpression", "d5/d3f/class_amp_gen_1_1_i_unary_expression.html#a06d9deac4c2adde6d563664e9e6990cf", null ],
