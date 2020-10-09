@@ -50,9 +50,5 @@ var namespace_amp_gen_1_1_vertex =
     [ "V_TS_P", "d4/ddc/struct_amp_gen_1_1_vertex_1_1_v___t_s___p.html", "d4/ddc/struct_amp_gen_1_1_vertex_1_1_v___t_s___p" ],
     [ "V_VS_D", "dd/d05/struct_amp_gen_1_1_vertex_1_1_v___v_s___d.html", "dd/d05/struct_amp_gen_1_1_vertex_1_1_v___v_s___d" ],
     [ "V_VS_P", "dc/d7a/struct_amp_gen_1_1_vertex_1_1_v___v_s___p.html", "dc/d7a/struct_amp_gen_1_1_vertex_1_1_v___v_s___p" ],
-    [ "V_VS_S", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s" ],
-    [ "V_VV_P", "db/de9/struct_amp_gen_1_1_vertex_1_1_v___v_v___p.html", "db/de9/struct_amp_gen_1_1_vertex_1_1_v___v_v___p" ],
-    [ "V_VV_P1", "dc/def/struct_amp_gen_1_1_vertex_1_1_v___v_v___p1.html", "dc/def/struct_amp_gen_1_1_vertex_1_1_v___v_v___p1" ],
-    [ "V_VV_P2", "dd/d48/struct_amp_gen_1_1_vertex_1_1_v___v_v___p2.html", "dd/d48/struct_amp_gen_1_1_vertex_1_1_v___v_v___p2" ],
-    [ "V_VV_S", "d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s.html", "d3/d79/struct_amp_gen_1_1_vertex_1_1_v___v_v___s" ]
+    [ "V_VS_S", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html", "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s" ]
 ];
