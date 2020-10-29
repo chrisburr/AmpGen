@@ -6,6 +6,7 @@ var class_amp_gen_1_1_incoherent_sum =
     [ "componentEvaluator", "db/d29/class_amp_gen_1_1_incoherent_sum.html#a68fa0dbd11db4c9f60d61bee21398e1c", null ],
     [ "debug", "db/d29/class_amp_gen_1_1_incoherent_sum.html#a10c7bf38861fc75bb1da32d98aacb59b", null ],
     [ "evaluator", "db/d29/class_amp_gen_1_1_incoherent_sum.html#a4d0d5ce41c83109dfe6485803a024eff", null ],
+    [ "eventType", "db/d29/class_amp_gen_1_1_incoherent_sum.html#aa43144e1961a0d73343da45cfbb62fbf", null ],
     [ "fitFractions", "db/d29/class_amp_gen_1_1_incoherent_sum.html#ab83599354c52706b1790752b72afbdad", null ],
     [ "generateSourceCode", "db/d29/class_amp_gen_1_1_incoherent_sum.html#afe54be5a70ad86fbe7f1ff069eb3a9f2", null ],
     [ "getGroupedAmplitudes", "db/d29/class_amp_gen_1_1_incoherent_sum.html#a44388cf905f30ef3d6f4a1eaa862622b", null ],

@@ -7,6 +7,7 @@ var class_amp_gen_1_1_polarised_sum =
     [ "debug", "d4/d31/class_amp_gen_1_1_polarised_sum.html#ab3e7880c0732a343602058887870a82d", null ],
     [ "debug_norm", "d4/d31/class_amp_gen_1_1_polarised_sum.html#aa34b2229d153b012688bd224c93aa3dd", null ],
     [ "evaluator", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a75ad4769dcbe8348463b5fc1cdde915e", null ],
+    [ "eventType", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a03a7b7cda06417dc6279ceba3ec13616", null ],
     [ "fitFractions", "d4/d31/class_amp_gen_1_1_polarised_sum.html#af50407e72c0f734bacdce6cba8b73fc1", null ],
     [ "generateSourceCode", "d4/d31/class_amp_gen_1_1_polarised_sum.html#aa031d975194079e521b5681ebe8937e0", null ],
     [ "getValNoCache", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a3871563a9c5d772f5400882b0a630fdc", null ],

@@ -8,6 +8,7 @@ var class_amp_gen_1_1_coherent_sum =
     [ "componentEvaluator", "d1/d91/class_amp_gen_1_1_coherent_sum.html#a68fa0dbd11db4c9f60d61bee21398e1c", null ],
     [ "debug", "d1/d91/class_amp_gen_1_1_coherent_sum.html#a10c7bf38861fc75bb1da32d98aacb59b", null ],
     [ "evaluator", "d1/d91/class_amp_gen_1_1_coherent_sum.html#a4d0d5ce41c83109dfe6485803a024eff", null ],
+    [ "eventType", "d1/d91/class_amp_gen_1_1_coherent_sum.html#aa43144e1961a0d73343da45cfbb62fbf", null ],
     [ "fitFractions", "d1/d91/class_amp_gen_1_1_coherent_sum.html#a4f4f49b30f1f32cd3f51934f3c51fae7", null ],
     [ "generateSourceCode", "d1/d91/class_amp_gen_1_1_coherent_sum.html#afe54be5a70ad86fbe7f1ff069eb3a9f2", null ],
     [ "getGroupedAmplitudes", "d1/d91/class_amp_gen_1_1_coherent_sum.html#a44388cf905f30ef3d6f4a1eaa862622b", null ],
