@@ -122,7 +122,7 @@ $(document).ready(function(){initNavTree('d6/d81/class_amp_gen_1_1p_correlated_s
 <div class="contents">
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00192">192</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00194">194</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -188,8 +188,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a73e7bc41df386391862acc5f231dab2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9aa7cb5cc635194bbdf9dbc9b7af2a1c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a0c4b038444f13769eb75a6ee5a22c3d1">complex_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/class_amp_gen_1_1p_correlated_sum.html#a9aa7cb5cc635194bbdf9dbc9b7af2a1c">correction</a> (const <a class="el" href="../../dd/dc4/class_amp_gen_1_1_event.html">Event</a> &amp;event) const </td></tr>
 <tr class="separator:a9aa7cb5cc635194bbdf9dbc9b7af2a1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58174483f08ac048fbc46a8da0964a30"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a0c4b038444f13769eb75a6ee5a22c3d1">complex_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/class_amp_gen_1_1p_correlated_sum.html#a58174483f08ac048fbc46a8da0964a30">errcorrection</a> (const <a class="el" href="../../dd/dc4/class_amp_gen_1_1_event.html">Event</a> &amp;event) const </td></tr>
-<tr class="separator:a58174483f08ac048fbc46a8da0964a30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae911138b30add212992567781145e296"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a0c4b038444f13769eb75a6ee5a22c3d1">complex_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/class_amp_gen_1_1p_correlated_sum.html#ae911138b30add212992567781145e296">errcorrection</a> (const <a class="el" href="../../dd/dc4/class_amp_gen_1_1_event.html">Event</a> &amp;event, std::string covFile=&quot;&quot;) const </td></tr>
+<tr class="separator:ae911138b30add212992567781145e296"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43b697585bea4207ed66b485773173a3"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/class_amp_gen_1_1p_correlated_sum.html#a43b697585bea4207ed66b485773173a3">getCParam</a> (int i, int j) const </td></tr>
 <tr class="separator:a43b697585bea4207ed66b485773173a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -397,7 +397,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00382">382</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00384">384</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -442,7 +442,7 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a58174483f08ac048fbc46a8da0964a30"></a>
+<a class="anchor" id="ae911138b30add212992567781145e296"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -453,8 +453,18 @@ Protected Attributes</h2></td></tr>
           <td class="memname"><a class="el" href="../../dc/d82/namespace_amp_gen.html#a0c4b038444f13769eb75a6ee5a22c3d1">complex_t</a> AmpGen::pCorrelatedSum::errcorrection </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="../../dd/dc4/class_amp_gen_1_1_event.html">Event</a> &amp;&#160;</td>
-          <td class="paramname"><em>event</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"><em>event</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>covFile</em> = <code>&quot;&quot;</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -464,7 +474,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00518">518</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00523">523</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -505,7 +515,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00283">283</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00285">285</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -530,7 +540,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00287">287</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00289">289</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -572,7 +582,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00232">232</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00234">234</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -597,7 +607,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00291">291</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00293">293</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -633,7 +643,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00635">635</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00672">672</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -658,7 +668,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00295">295</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00297">297</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -700,7 +710,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00239">239</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00241">241</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -725,7 +735,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00249">249</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00251">251</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -846,7 +856,7 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>std::sqrt(m_norm); </p>
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00321">321</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00323">323</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -872,7 +882,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00333">333</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00335">335</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -923,7 +933,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00198">198</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00200">200</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -974,7 +984,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00199">199</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00201">201</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1010,7 +1020,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00299">299</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00301">301</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1036,7 +1046,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00317">317</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00319">319</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1129,7 +1139,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00314">314</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00316">316</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1205,7 +1215,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00655">655</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00692">692</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1227,7 +1237,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00688">688</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00725">725</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1249,7 +1259,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00656">656</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00693">693</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1271,7 +1281,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00689">689</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00726">726</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1293,7 +1303,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00657">657</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00694">694</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1315,7 +1325,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00690">690</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00727">727</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1337,7 +1347,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00673">673</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00710">710</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1359,7 +1369,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00674">674</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00711">711</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1381,7 +1391,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00675">675</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00712">712</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1403,7 +1413,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00676">676</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00713">713</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1425,7 +1435,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00677">677</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00714">714</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1447,7 +1457,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00663">663</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00700">700</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1469,7 +1479,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00658">658</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00695">695</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1491,7 +1501,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00678">678</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00715">715</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1513,7 +1523,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00679">679</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00716">716</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1535,7 +1545,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00691">691</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00728">728</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1557,7 +1567,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00659">659</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00696">696</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1579,7 +1589,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00660">660</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00697">697</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1601,7 +1611,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00693">693</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00730">730</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1623,7 +1633,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00669">669</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00706">706</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1645,7 +1655,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00661">661</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00698">698</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1667,7 +1677,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00670">670</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00707">707</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1689,7 +1699,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00662">662</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00699">699</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1711,7 +1721,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00671">671</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00708">708</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1733,7 +1743,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00672">672</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00709">709</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1747,7 +1757,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00633">633</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00670">670</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1769,7 +1779,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00653">653</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00690">690</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1791,7 +1801,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00646">646</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00683">683</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1813,7 +1823,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00649">649</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00686">686</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1835,7 +1845,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00647">647</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00684">684</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1857,7 +1867,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00650">650</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00687">687</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1879,7 +1889,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00648">648</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00685">685</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1901,7 +1911,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00651">651</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00688">688</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1923,7 +1933,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00652">652</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00689">689</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1945,7 +1955,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00683">683</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00720">720</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1967,7 +1977,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00684">684</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00721">721</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -1989,7 +1999,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00680">680</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00717">717</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2011,7 +2021,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00681">681</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00718">718</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2033,7 +2043,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00664">664</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00701">701</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2055,7 +2065,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00685">685</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00722">722</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2077,7 +2087,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00686">686</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00723">723</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2099,7 +2109,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00687">687</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00724">724</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2121,7 +2131,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00692">692</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00729">729</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2143,7 +2153,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00654">654</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00691">691</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2165,7 +2175,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00682">682</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00719">719</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2187,7 +2197,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00665">665</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00702">702</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2209,7 +2219,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00666">666</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00703">703</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2231,7 +2241,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00667">667</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00704">704</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2253,7 +2263,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00668">668</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
+<p>Definition at line <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html#l00705">705</a> of file <a class="el" href="../../db/d16/p_correlated_sum_8h_source.html">pCorrelatedSum.h</a>.</p>
 
 </div>
 </div>
@@ -2266,7 +2276,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d82/namespace_amp_gen.html">AmpGen</a></li><li class="navelem"><a class="el" href="../../d6/d81/class_amp_gen_1_1p_correlated_sum.html">pCorrelatedSum</a></li>
-    <li class="footer">Generated on Tue Nov 17 2020 12:29:04 for AmpGen by
+    <li class="footer">Generated on Tue Dec 8 2020 01:13:48 for AmpGen by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

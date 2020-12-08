@@ -1,5 +1,7 @@
 var NAVTREEINDEX11 =
 {
+"dd/dad/class_amp_gen_1_1_lineshape_1_1_l_a_s_s.html#a437c8e39f7ea757c425c02164a6f4345":[0,2,5,3],
+"dd/dad/class_amp_gen_1_1_lineshape_1_1_l_a_s_s.html#a6f3602c13bdec62f1ee8c4d46477fa61":[0,2,5,4],
 "dd/dad/class_amp_gen_1_1_lineshape_1_1_l_a_s_s.html#ad976467da5d6af6ce69ea73de955aed8":[0,2,5,2],
 "dd/dad/class_amp_gen_1_1_lineshape_1_1_l_a_s_s.html#ae0a4042b896c0f6cd580b5894b9d88b9":[0,2,5,1],
 "dd/daf/class_amp_gen_1_1_recursive_phase_space.html":[3,0,110],
@@ -247,7 +249,5 @@ var NAVTREEINDEX11 =
 "de/dd7/class_amp_gen_1_1_particle.html#a8c42fbc33eb13cbefc6331fc9620f86e":[3,0,90,60],
 "de/dd7/class_amp_gen_1_1_particle.html#a92cb10e52a69ec688116932118850565":[3,0,90,11],
 "de/dd7/class_amp_gen_1_1_particle.html#a936f6045c69aed2550d9d94da40b8a4a":[3,0,90,42],
-"de/dd7/class_amp_gen_1_1_particle.html#a97bfd8c2be3aef0934f63ab85d58f28c":[3,0,90,40],
-"de/dd7/class_amp_gen_1_1_particle.html#aa27570285357db837b65e81d3f56c323":[3,0,90,35],
-"de/dd7/class_amp_gen_1_1_particle.html#aa28b501e5d966a84a677b2b7d94854b1":[3,0,90,59]
+"de/dd7/class_amp_gen_1_1_particle.html#a97bfd8c2be3aef0934f63ab85d58f28c":[3,0,90,40]
 };

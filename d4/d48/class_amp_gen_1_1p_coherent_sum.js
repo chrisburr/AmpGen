@@ -1,7 +1,7 @@
 var class_amp_gen_1_1p_coherent_sum =
 [
     [ "pCoherentSum", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a22bd0b9cda34004efc9ca534c01256cf", null ],
-    [ "pCoherentSum", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a35363007f4c33e011a41dcd35dd3461f", null ],
+    [ "pCoherentSum", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a32ac8886a50367245c2c62a4f3d60836", null ],
     [ "~pCoherentSum", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#aad14ca204625070ccb5cbb47c1411f4e", null ],
     [ "A", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a407281fd646fe04b34aa4372ec296d6c", null ],
     [ "C", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a69b548c94e41e50d7c96941b527e909c", null ],
@@ -36,6 +36,7 @@ var class_amp_gen_1_1p_coherent_sum =
     [ "m_coherentIntegral", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#af27efc7a1be87228fa84d9f04fad4ad0", null ],
     [ "m_coherentIntegralA", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a24d49d7e5c07abe618161bcce4ee2f08", null ],
     [ "m_coherentIntegralC", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a5d77a526a627ca851b22dfeaeda11794", null ],
+    [ "m_conj", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#acd152dabbb51953dd9039d041c116cd8", null ],
     [ "m_Cparams", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#ad58329c100027c52034f6781eaabbca1", null ],
     [ "m_debug", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#acfec372d72c5fbd04582955a62004ab9", null ],
     [ "m_debugFreq", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#ae107bf37295bf80414058f131002bf92", null ],
@@ -60,6 +61,7 @@ var class_amp_gen_1_1p_coherent_sum =
     [ "m_prepareCalls", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a9a2230cf8645e6a3f625beb28f735a47", null ],
     [ "m_sameTag", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a9ad553e07bbc941100909b308dd59380", null ],
     [ "m_SFType", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#aa92f42bfde1ae8131b4067ccc10de9b9", null ],
+    [ "m_slowNorm", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a9cd697a7f9968a059f8f6bba8cee6d55", null ],
     [ "m_updateNorms", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a923438d40df9d8c3a086e1f2503c95e8", null ],
     [ "m_useXY", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a7d35adceb8e6d13e73b60314c957c0a4", null ],
     [ "outputFractionsA", "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a40139c9e367f1582c2f635577365b335", null ],
