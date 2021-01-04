@@ -1,5 +1,8 @@
 var NAVTREEINDEX8 =
 {
+"da/d5b/class_amp_gen_1_1_fit_fraction.html#ac4e7c8fa61b29af25ca065014f638857":[3,0,49,5],
+"da/d5b/class_amp_gen_1_1_fit_fraction.html#ad597c894cbb8cc2f24a2a4031c6c1f59":[3,0,49,4],
+"da/d5b/class_amp_gen_1_1_fit_fraction.html#aeeb3d2d19ed1906be731b26ba6996a76":[3,0,49,2],
 "da/d76/class_amp_gen_1_1_log.html":[0,0,19],
 "da/d76/class_amp_gen_1_1_log.html#a251e55a0079e07075c905c74606f586c":[0,0,19,2],
 "da/d76/class_amp_gen_1_1_log.html#a3c8369ae0fe3f7ff6091595c02fe0e9e":[0,0,19,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX8 =
 "db/d37/class_amp_gen_1_1_particle_properties.html#ab57dc0daf442f3f9fdd760b833dd6af0":[3,0,91,11],
 "db/d37/class_amp_gen_1_1_particle_properties.html#abb19335e85c1302e2fb8ad18ac7d7418":[3,0,91,9],
 "db/d37/class_amp_gen_1_1_particle_properties.html#ac1906fc3a963f3e75895d352cc3dc6ef":[3,0,91,32],
-"db/d37/class_amp_gen_1_1_particle_properties.html#ac81763745f4eb9d18813ba621aad6e96":[3,0,91,3],
-"db/d37/class_amp_gen_1_1_particle_properties.html#aca66fe1b80ada99672eab71991f68418":[3,0,91,21],
-"db/d37/class_amp_gen_1_1_particle_properties.html#adc12632615d6d70b38b8669d879a08fc":[3,0,91,25],
-"db/d37/class_amp_gen_1_1_particle_properties.html#add82200950b852d5b1b50c22176b0567":[3,0,91,22]
+"db/d37/class_amp_gen_1_1_particle_properties.html#ac81763745f4eb9d18813ba621aad6e96":[3,0,91,3]
 };

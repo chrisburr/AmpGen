@@ -1,5 +1,8 @@
 var NAVTREEINDEX7 =
 {
+"d8/df7/struct_amp_gen_1_1_vertex_1_1f__r_s___p1.html#a3bd459b1177cb3e435e7fc5900601513":[3,0,2,9,2],
+"d8/df7/struct_amp_gen_1_1_vertex_1_1f__r_s___p1.html#a636635d425473883797935c99ffb8156":[3,0,2,9,1],
+"d8/df7/struct_amp_gen_1_1_vertex_1_1f__r_s___p1.html#ae97d887bbbd84fd63cf387b56fbbac97":[3,0,2,9,0],
 "d9/d03/class_amp_gen_1_1_lineshape_1_1_f_o_c_u_s.html":[0,2,11],
 "d9/d03/class_amp_gen_1_1_lineshape_1_1_f_o_c_u_s.html#a1f6eb6e8dad3da3f5becd3f075882c2d":[0,2,11,0],
 "d9/d03/class_amp_gen_1_1_lineshape_1_1_f_o_c_u_s.html#a5c76ad355f3cf89aca1852b8a7ed5d13":[0,2,11,4],
@@ -25,8 +28,8 @@ var NAVTREEINDEX7 =
 "d9/d0a/t_coherent_sum_8h.html#add6002036889a61d745aca439f8c5c58":[7,0,79,1],
 "d9/d0a/t_coherent_sum_8h.html#af252d28f65dc9ecbece9c14d508b0359":[7,0,79,5],
 "d9/d0a/t_coherent_sum_8h_source.html":[7,0,79],
-"d9/d0b/namespace_amp_gen_1_1_vertex.html":[1,0,3],
 "d9/d0b/namespace_amp_gen_1_1_vertex.html":[3,0,2],
+"d9/d0b/namespace_amp_gen_1_1_vertex.html":[1,0,3],
 "d9/d0f/struct_amp_gen_1_1_tree_phase_space_1_1_vertex.html":[3,0,134,0],
 "d9/d0f/struct_amp_gen_1_1_tree_phase_space_1_1_vertex.html#a13bbad295fa35292014ebcb93b587fbc":[3,0,134,0,23],
 "d9/d0f/struct_amp_gen_1_1_tree_phase_space_1_1_vertex.html#a1bb962b5381faae36497859a308f859d":[3,0,134,0,25],
@@ -246,8 +249,5 @@ var NAVTREEINDEX7 =
 "da/d5b/class_amp_gen_1_1_fit_fraction.html#a4e1278a305ff8fb59784b2c01d68658b":[3,0,49,3],
 "da/d5b/class_amp_gen_1_1_fit_fraction.html#a5aa89233d71a075c0a74516487ee1e87":[3,0,49,0],
 "da/d5b/class_amp_gen_1_1_fit_fraction.html#a8feedeaed9ab2a4ee34093a1b746280f":[3,0,49,6],
-"da/d5b/class_amp_gen_1_1_fit_fraction.html#a943b31d58cb6aa577375f9a43d303f49":[3,0,49,7],
-"da/d5b/class_amp_gen_1_1_fit_fraction.html#ac4e7c8fa61b29af25ca065014f638857":[3,0,49,5],
-"da/d5b/class_amp_gen_1_1_fit_fraction.html#ad597c894cbb8cc2f24a2a4031c6c1f59":[3,0,49,4],
-"da/d5b/class_amp_gen_1_1_fit_fraction.html#aeeb3d2d19ed1906be731b26ba6996a76":[3,0,49,2]
+"da/d5b/class_amp_gen_1_1_fit_fraction.html#a943b31d58cb6aa577375f9a43d303f49":[3,0,49,7]
 };

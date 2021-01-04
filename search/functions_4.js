@@ -10,7 +10,7 @@ var searchData=
   ['equal',['Equal',['../d4/d7a/class_amp_gen_1_1_equal.html#a2481d448b28cb19aa27532f80dad395b',1,'AmpGen::Equal']]],
   ['erase',['erase',['../db/d4b/class_amp_gen_1_1_event_list.html#a850b5fdd1446e2d9800d09413b618bf9',1,'AmpGen::EventList']]],
   ['err',['err',['../da/d5b/class_amp_gen_1_1_fit_fraction.html#a4e1278a305ff8fb59784b2c01d68658b',1,'AmpGen::FitFraction']]],
-  ['errcorrection',['errcorrection',['../d6/d81/class_amp_gen_1_1p_correlated_sum.html#ae911138b30add212992567781145e296',1,'AmpGen::pCorrelatedSum']]],
+  ['errcorrection',['errcorrection',['../d6/d81/class_amp_gen_1_1p_correlated_sum.html#ac5184b72288589e1f14b73bdc6a6b8c3',1,'AmpGen::pCorrelatedSum']]],
   ['etadalitz',['EtaDalitz',['../d7/d30/class_amp_gen_1_1_lineshape_1_1_eta_dalitz.html#a89a2ca1403097074b667fb26fac7ba1b',1,'AmpGen::Lineshape::EtaDalitz']]],
   ['eval',['eval',['../d8/d3c/class_amp_gen_1_1_spline.html#a795fc2c26e119981ef01c76190762915',1,'AmpGen::Spline']]],
   ['event',['event',['../d9/d0f/struct_amp_gen_1_1_tree_phase_space_1_1_vertex.html#aa7382323a74c80e1886a81ca0c88961d',1,'AmpGen::TreePhaseSpace::Vertex::event()'],['../dd/dc4/class_amp_gen_1_1_event.html#a655e8fc2f4d15fa130511361ae47aef0',1,'AmpGen::Event::Event(const unsigned &amp;N, const unsigned &amp;cacheSize=0)'],['../dd/dc4/class_amp_gen_1_1_event.html#a21f1e15eb043550c3a10109e5b07d9a2',1,'AmpGen::Event::Event(const real_t *data, const unsigned &amp;N, const unsigned &amp;cacheSize=0)']]],

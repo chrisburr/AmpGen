@@ -40,14 +40,14 @@ var NAVTREEINDEX =
 "d3/dae/class_amp_gen_1_1p_coherent_sum2.html#aba3ea98eb93914e4da266aeba67ca6c5",
 "d4/d48/class_amp_gen_1_1p_coherent_sum.html#a9d26c9b0a325b0ca0909a46f75c8980a",
 "d5/dfb/class_amp_gen_1_1_integrator.html#a974653279ae6e94cec0c0de80c5a0785",
-"d7/d5c/struct_amp_gen_1_1_vertex_1_1f___vf___s_r.html#a4c06f4afd215c72a4019dffd06d9efff",
-"d9/d03/class_amp_gen_1_1_lineshape_1_1_f_o_c_u_s.html",
-"da/d76/class_amp_gen_1_1_log.html",
-"db/d37/class_amp_gen_1_1_particle_properties.html#ae136057864fdc53259428aeaddd8aeb3",
-"dc/d1e/class_amp_gen_1_1_exp.html#a6642955190d20d6536dd636e2b807502",
-"dd/dad/class_amp_gen_1_1_lineshape_1_1_l_a_s_s.html#a437c8e39f7ea757c425c02164a6f4345",
-"de/dd7/class_amp_gen_1_1_particle.html#aa27570285357db837b65e81d3f56c323",
-"functions_vars_c.html"
+"d7/d4c/class_amp_gen_1_1_compiler_wrapper.html#a8c48b295a3b2a8e602d2a7e34839c869",
+"d8/df7/struct_amp_gen_1_1_vertex_1_1f__r_s___p1.html#a3bd459b1177cb3e435e7fc5900601513",
+"da/d5b/class_amp_gen_1_1_fit_fraction.html#ac4e7c8fa61b29af25ca065014f638857",
+"db/d37/class_amp_gen_1_1_particle_properties.html#aca66fe1b80ada99672eab71991f68418",
+"dc/d1e/class_amp_gen_1_1_exp.html#a290a39dd25f12bdf982a3d2cdf6b4a2c",
+"dd/da6/class_amp_gen_1_1_tree_reader.html#ae2ec6775f390f4000661dd44ae1d026d",
+"de/dd7/class_amp_gen_1_1_particle.html#a92cb10e52a69ec688116932118850565",
+"functions_vars.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
