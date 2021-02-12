@@ -1,7 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"db/dec/class_amp_gen_1_1_sim_fit.html#a783891fb9b30db2c0d0da641ff74d477":[3,0,119,2],
-"db/dec/class_amp_gen_1_1_sim_fit.html#ad9d5720d19c78682312e9f7d84d624af":[3,0,119,1],
 "dc/d0b/_thread_pool_8h.html":[7,0,64],
 "dc/d0b/_thread_pool_8h_source.html":[7,0,64],
 "dc/d1e/class_amp_gen_1_1_exp.html":[0,0,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX10 =
 "dc/d82/namespace_amp_gen.html#a93e465b51cd858ad1bbd9413b81efa88":[1,0,230],
 "dc/d82/namespace_amp_gen.html#a958229e0aff4893b1e65bcb6eb3c83fb":[1,0,178],
 "dc/d82/namespace_amp_gen.html#a96cd5ff2c7eb8fa9f2fa0633372e9432":[1,0,323],
-"dc/d82/namespace_amp_gen.html#a96fbd6d933f266a93ea45813c5de344d":[1,0,320]
+"dc/d82/namespace_amp_gen.html#a96fbd6d933f266a93ea45813c5de344d":[1,0,320],
+"dc/d82/namespace_amp_gen.html#a98893f0633f543ff0ddb950509cf35e4":[1,0,257],
+"dc/d82/namespace_amp_gen.html#a98a5cf06b36f6aa48fe02667d2b0e12f":[1,0,352]
 };
