@@ -105,16 +105,17 @@ $(document).ready(function(){initNavTree('d4/d06/_dirac_matrices_8h_source.html'
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160; </div>
 <div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="keyword">namespace </span><a class="code" href="../../dc/d82/namespace_amp_gen.html">AmpGen</a></div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;{</div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> Expression <a class="code" href="../../dc/d82/namespace_amp_gen.html#a8833f3957e8325ef10f18445f0b4a224">I</a>;</div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> Expression <a class="code" href="../../dc/d82/namespace_amp_gen.html#a1c5484b63ddd098dc030ba546b792800">Z</a>;</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,5&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#aec21f9ae62c751b2066c7b45d4903e55">Gamma</a>;</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#ac26ff86dd39599a7ecccfd369726c5b3">Sigma</a>;</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#a779e7ce03aba194c54a570eb24d3b6ef">Sigma4</a>;</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#ac28ba3534e031f49d48b63dd03facfbb">S03</a>;</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,8&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#a8eaea0e7f8d045073731521aa5382c6d">SU3</a>;</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;} <span class="comment">// namespace AmpGen</span></div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160; </div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#endif</span></div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> Expression <a class="code" href="../../dc/d82/namespace_amp_gen.html#a8833f3957e8325ef10f18445f0b4a224">I</a>;                <span class="comment">// Imaginary unit</span></div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> Expression <a class="code" href="../../dc/d82/namespace_amp_gen.html#a1c5484b63ddd098dc030ba546b792800">Z</a>;                <span class="comment">// Zero</span></div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,5&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#aec21f9ae62c751b2066c7b45d4903e55">Gamma</a>;  <span class="comment">// Gamma matrices, orderered weirdly due to ROOT convention, so Gamma[{0,1,2}] = gamma[{1,2,3}] and Gamma[3] = gamma[0] </span></div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;                                            <span class="comment">// where gamma are the gamma matrices in the more conventional ordering. </span></div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#ac26ff86dd39599a7ecccfd369726c5b3">Sigma</a>;  <span class="comment">// The pauli matrices </span></div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#a779e7ce03aba194c54a570eb24d3b6ef">Sigma4</a>; <span class="comment">// The pauli matrices acting on bispinors  </span></div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,3&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#ad04af28256ad5d0cd8bc359e109ade7b">SO3</a>;    <span class="comment">// basis elements for the vector reprsentation of SO(3)</span></div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;  <span class="keyword">extern</span> <span class="keyword">const</span> std::array&lt;Tensor,8&gt; <a class="code" href="../../dc/d82/namespace_amp_gen.html#a8eaea0e7f8d045073731521aa5382c6d">SU3</a>;    <span class="comment">// basis elements for the vector representation of SU(3), i.e. the Gell-Mann matrices</span></div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;} <span class="comment">// namespace AmpGen</span></div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160; </div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="ttc" id="a_expression_8h_html"><div class="ttname"><a href="../../d6/d99/_expression_8h.html">Expression.h</a></div></div>
 <div class="ttc" id="a_tensor_8h_html"><div class="ttname"><a href="../../dc/db8/_tensor_8h.html">Tensor.h</a></div></div>
 <div class="ttc" id="anamespace_amp_gen_html"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html">AmpGen</a></div><div class="ttdef"><b>Definition:</b> <a href="../../db/d1b/_add_c_p_conjugate_8h_source.html#l00002">AddCPConjugate.h:2</a></div></div>
@@ -123,7 +124,7 @@ $(document).ready(function(){initNavTree('d4/d06/_dirac_matrices_8h_source.html'
 <div class="ttc" id="anamespace_amp_gen_html_a8833f3957e8325ef10f18445f0b4a224"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#a8833f3957e8325ef10f18445f0b4a224">AmpGen::I</a></div><div class="ttdeci">const Expression I</div></div>
 <div class="ttc" id="anamespace_amp_gen_html_a8eaea0e7f8d045073731521aa5382c6d"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#a8eaea0e7f8d045073731521aa5382c6d">AmpGen::SU3</a></div><div class="ttdeci">const std::array&lt; Tensor, 8 &gt; SU3</div></div>
 <div class="ttc" id="anamespace_amp_gen_html_ac26ff86dd39599a7ecccfd369726c5b3"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#ac26ff86dd39599a7ecccfd369726c5b3">AmpGen::Sigma</a></div><div class="ttdeci">const std::array&lt; Tensor, 3 &gt; Sigma</div></div>
-<div class="ttc" id="anamespace_amp_gen_html_ac28ba3534e031f49d48b63dd03facfbb"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#ac28ba3534e031f49d48b63dd03facfbb">AmpGen::S03</a></div><div class="ttdeci">const std::array&lt; Tensor, 3 &gt; S03</div></div>
+<div class="ttc" id="anamespace_amp_gen_html_ad04af28256ad5d0cd8bc359e109ade7b"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#ad04af28256ad5d0cd8bc359e109ade7b">AmpGen::SO3</a></div><div class="ttdeci">const std::array&lt; Tensor, 3 &gt; SO3</div></div>
 <div class="ttc" id="anamespace_amp_gen_html_aec21f9ae62c751b2066c7b45d4903e55"><div class="ttname"><a href="../../dc/d82/namespace_amp_gen.html#aec21f9ae62c751b2066c7b45d4903e55">AmpGen::Gamma</a></div><div class="ttdeci">const std::array&lt; Tensor, 5 &gt; Gamma</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
@@ -131,7 +132,7 @@ $(document).ready(function(){initNavTree('d4/d06/_dirac_matrices_8h_source.html'
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_afe841426323c02de63fa29102dfa844.html">AmpGen</a></li><li class="navelem"><a class="el" href="../../d4/d06/_dirac_matrices_8h.html">DiracMatrices.h</a></li>
-    <li class="footer">Generated on Fri Feb 12 2021 17:53:14 for AmpGen by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Mon Feb 15 2021 09:12:52 for AmpGen by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>
