@@ -123,7 +123,7 @@ $(document).ready(function(){initNavTree('d8/dc5/_generator_8h_source.html','../
 <div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="../../de/d94/class_amp_gen_1_1_generator.html#ada15aa8336c2399f9c4e526cdd654a02">   26</a></span>&#160;        <span class="keyword">template</span> &lt;<span class="keyword">typename</span>... ARGS&gt; <span class="keyword">explicit</span> <a class="code" href="../../de/d94/class_amp_gen_1_1_generator.html#ada15aa8336c2399f9c4e526cdd654a02">Generator</a>( <span class="keyword">const</span> ARGS&amp;... args ) : m_gps(args...)</div>
 <div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        {</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;          m_eventType = m_gps.eventType();</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;          <a class="code" href="../../de/d94/class_amp_gen_1_1_generator.html#a3366eca8dfb39b410b8d258b3454e012">setRandom</a>( m_rnd );</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;          <span class="keywordflow">if</span>( m_rnd != gRandom ) <a class="code" href="../../de/d94/class_amp_gen_1_1_generator.html#a3366eca8dfb39b410b8d258b3454e012">setRandom</a>( m_rnd );</div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;          <a class="code" href="../../dd/d89/group__msg_service.html#gaef41e8aaf4c60819b30faf396cdf4978">DEBUG</a>(<span class="stringliteral">&quot;Creating generator, using: &quot;</span> &lt;&lt; type_string&lt;phaseSpace_t&gt;() &lt;&lt; <span class="stringliteral">&quot; and internal store type: &quot;</span> &lt;&lt; type_string&lt;eventListInternal_t&gt;() ); </div>
 <div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        }</div>
 <div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;  </div>
@@ -321,7 +321,7 @@ $(document).ready(function(){initNavTree('d8/dc5/_generator_8h_source.html','../
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_afe841426323c02de63fa29102dfa844.html">AmpGen</a></li><li class="navelem"><a class="el" href="../../d8/dc5/_generator_8h.html">Generator.h</a></li>
-    <li class="footer">Generated on Mon Feb 15 2021 22:29:00 for AmpGen by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Thu Feb 18 2021 12:18:51 for AmpGen by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>
