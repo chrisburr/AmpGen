@@ -44,6 +44,7 @@ var class_amp_gen_1_1_event_list =
     [ "reserve", "db/d4b/class_amp_gen_1_1_event_list.html#a5200f1ff8a7d073f15c136fb6b97edb2", null ],
     [ "resize", "db/d4b/class_amp_gen_1_1_event_list.html#acd76a8c32f517d7dd2daa2b8eb13788e", null ],
     [ "setEventType", "db/d4b/class_amp_gen_1_1_event_list.html#a21a6fa750bea64c3be1630d2cc0d9f10", null ],
+    [ "setGenPDF", "db/d4b/class_amp_gen_1_1_event_list.html#a507e9da988cc0c42d7772e4934258d03", null ],
     [ "setWeight", "db/d4b/class_amp_gen_1_1_event_list.html#ae3bc54224dbfe861da245c553a5dfe42", null ],
     [ "size", "db/d4b/class_amp_gen_1_1_event_list.html#adde959025ff44c83efbbb88a29877bff", null ],
     [ "store", "db/d4b/class_amp_gen_1_1_event_list.html#a669e1e7c1326b821386ddc184af62bde", null ],

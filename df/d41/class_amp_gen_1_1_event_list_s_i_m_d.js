@@ -40,6 +40,7 @@ var class_amp_gen_1_1_event_list_s_i_m_d =
     [ "resize", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#a006b89158f7f538bd88e5460deffde0f", null ],
     [ "scatter", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#abde49ed7c814b5553fb3b24d4eb57a51", null ],
     [ "setEventType", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#ad35abd357a97843052993a35e9eb75f3", null ],
+    [ "setGenPDF", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#af1907c446c24b5728d69c156ebd9993c", null ],
     [ "setWeight", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#af2aeb4eb8fd4eb213608e9e0792f1d48", null ],
     [ "size", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#aaaba944576cf8deda87694418e512404", null ],
     [ "store", "df/d41/class_amp_gen_1_1_event_list_s_i_m_d.html#a5dca895884d8c11b764e52839e57f82f", null ],
