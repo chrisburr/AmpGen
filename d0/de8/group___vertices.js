@@ -1,6 +1,5 @@
 var group___vertices =
 [
-    [ "Vertex", "d9/d0b/namespace_amp_gen_1_1_vertex.html", null ],
     [ "Base", "d5/d73/struct_amp_gen_1_1_vertex_1_1_base.html", [
       [ "~Base", "d5/d73/struct_amp_gen_1_1_vertex_1_1_base.html#a23942b03ec9e1fce2ca7ae3c7c40c7d9", null ],
       [ "create", "d5/d73/struct_amp_gen_1_1_vertex_1_1_base.html#a636635d425473883797935c99ffb8156", null ],
@@ -85,5 +84,5 @@ var group___vertices =
     [ "Spin1hProjector", "d0/de8/group___vertices.html#gadfa5d93386e0dae150fe7d66bd81f24e", null ],
     [ "Spin1Projector", "d0/de8/group___vertices.html#gacbbe833b0a87a4145bcd10aed9aca920", null ],
     [ "Spin2Projector", "d0/de8/group___vertices.html#ga59ee1d70f51f4bca4aa96e66923e90df", null ],
-    [ "wickTransform", "d0/de8/group___vertices.html#gae73775373ea2089084b61a3bd25178e3", null ]
+    [ "wickTransform", "d0/de8/group___vertices.html#gabf4df499a7af475044c35eac20eed956", null ]
 ];
