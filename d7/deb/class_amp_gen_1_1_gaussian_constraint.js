@@ -1,7 +1,8 @@
 var class_amp_gen_1_1_gaussian_constraint =
 [
-    [ "configure", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a45d10a9a78c00655d6bdd55129bbbf84", null ],
-    [ "create", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a8005ef18e4f0736b2ecc2194c757f33f", null ],
-    [ "getVal", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a642aefd213de6b3f6fac1d3e62e0a136", null ],
+    [ "GaussianConstraint", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a93fd031c9c413bed38383426a24bdf40", null ],
+    [ "configure", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#ae3d1216086d646d9190c9aeca367b93c", null ],
+    [ "create", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a97894d57545537eaabdeb00337d7318f", null ],
+    [ "operator()", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a7c242b32c9a4dee6bbb860ccf9f625ee", null ],
     [ "_id", "d7/deb/class_amp_gen_1_1_gaussian_constraint.html#af55f18c5dade306bbecd7447e40d0538", null ]
 ];
