@@ -1,5 +1,10 @@
 var NAVTREEINDEX2 =
 {
+"d3/d23/class_amp_gen_1_1_quark_state.html#a251df454611176b511532eca7379e6bc":[3,0,115,11],
+"d3/d23/class_amp_gen_1_1_quark_state.html#a3f78dbd705969635e0831e2364981876":[3,0,115,1],
+"d3/d23/class_amp_gen_1_1_quark_state.html#a4890b68a99c413c5fbe381c9a2f5b630":[3,0,115,12],
+"d3/d23/class_amp_gen_1_1_quark_state.html#a4f6c651c186d7baa8ded0ea155f1581c":[3,0,115,0],
+"d3/d23/class_amp_gen_1_1_quark_state.html#ab221233a9cc3cfc696f6c3effec3dbeb":[3,0,115,3],
 "d3/d23/class_amp_gen_1_1_quark_state.html#ab8c35e44dfc1f3fc9961eb9ab9f6cd20":[3,0,115,13],
 "d3/d23/class_amp_gen_1_1_quark_state.html#aca5b1968796eb580fd1f13cd71d9cec9":[3,0,115,9],
 "d3/d23/class_amp_gen_1_1_quark_state.html#adbfda5b236b76ca13b4c728a3d10c86c":[3,0,115,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "d4/d15/_particle_8h.html#a35d0085a6f2946414f308b2989c2d9f3":[7,0,48,3],
 "d4/d15/_particle_8h.html#a3801e11d81c553bbba478110b18b2690":[7,0,48,2],
 "d4/d15/_particle_8h_source.html":[7,0,48],
-"d4/d25/_spline_8h.html":[7,0,60],
-"d4/d25/_spline_8h.html#a27567aec858b219b309b1a5f8cf3a100":[7,0,60,2],
-"d4/d25/_spline_8h_source.html":[7,0,60],
-"d4/d2d/class_amp_gen_1_1_fit_result.html":[3,0,89],
-"d4/d2d/class_amp_gen_1_1_fit_result.html#a048d2a862c39cb1c64b5e97c55b32e3b":[3,0,89,25],
-"d4/d2d/class_amp_gen_1_1_fit_result.html#a15b56968240d5d801fee4b58e3b3d059":[3,0,89,10]
+"d4/d25/_spline_8h.html":[7,0,60]
 };

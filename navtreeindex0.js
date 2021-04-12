@@ -87,6 +87,11 @@ var NAVTREEINDEX0 =
 "d0/d9b/enum_8h.html#ad30233f0634fb436582c7e98bbbcea64":[7,0,18,1],
 "d0/d9b/enum_8h.html#af07fd6f07c582d1cb50a878ca2beadae":[7,0,18,6],
 "d0/d9b/enum_8h_source.html":[7,0,18],
+"d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html":[3,0,6,56],
+"d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html#a0ca431d71eb2d560a5d3a5cb9fc01633":[3,0,6,56,0],
+"d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html#a636635d425473883797935c99ffb8156":[3,0,6,56,1],
+"d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html#a8762a0cf7a7cd3232bf98fe5cbcc3bba":[3,0,6,56,3],
+"d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html#aa73613262e4bbb1cb8499cdf443258a6":[3,0,6,56,2],
 "d0/db6/_types_8h.html":[7,0,69],
 "d0/db6/_types_8h.html#a01a861303dccf2bcab5f9c75859578ed":[7,0,69,1],
 "d0/db6/_types_8h.html#a0c4b038444f13769eb75a6ee5a22c3d1":[7,0,69,0],
@@ -152,7 +157,7 @@ var NAVTREEINDEX0 =
 "d0/de8/group___vertices.html#ga8ba3d6acfc1b1df18ef7645f4f8e39d0":[0,4,15],
 "d0/de8/group___vertices.html#ga8ba3d6acfc1b1df18ef7645f4f8e39d0":[1,0,287],
 "d0/de8/group___vertices.html#ga974081b9c66068d7e97a4d0654cdd047":[0,4,13],
-"d0/de8/group___vertices.html#ga974081b9c66068d7e97a4d0654cdd047":[7,0,72,42],
+"d0/de8/group___vertices.html#ga974081b9c66068d7e97a4d0654cdd047":[7,0,72,46],
 "d0/de8/group___vertices.html#ga98dfb6dcbdafd331079eeedd917633bb":[0,4,14],
 "d0/de8/group___vertices.html#ga98dfb6dcbdafd331079eeedd917633bb":[1,0,165],
 "d0/de8/group___vertices.html#gabd2062120833fa09c31107e57c1d613a":[0,4,16],
@@ -244,10 +249,5 @@ var NAVTREEINDEX0 =
 "d1/d6c/class_amp_gen_1_1_bilinears.html#a94b008ee86b99cc3c1003b66c22fd4e7":[3,0,94,1],
 "d1/d6c/class_amp_gen_1_1_bilinears.html#aa58004e9eb6746a83575e1d7a24ea642":[3,0,94,4],
 "d1/d6c/class_amp_gen_1_1_bilinears.html#ac44f815b02c0168fe998ed21eb1d7402":[3,0,94,6],
-"d1/d6c/class_amp_gen_1_1_bilinears.html#ad3f7154584e7406759b8f97f8a77644e":[3,0,94,7],
-"d1/d6c/class_amp_gen_1_1_bilinears.html#ad4c467724c135a213548510c3d029904":[3,0,94,8],
-"d1/d6c/class_amp_gen_1_1_bilinears.html#aee58705159e31a9d4c6691943659a6be":[3,0,94,2],
-"d1/d6c/class_amp_gen_1_1_bilinears.html#afb0c29753dd9ba8d0e95557ad176ea94":[3,0,94,3],
-"d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html":[0,4,12],
-"d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#a636635d425473883797935c99ffb8156":[0,4,12,1]
+"d1/d6c/class_amp_gen_1_1_bilinears.html#ad3f7154584e7406759b8f97f8a77644e":[3,0,94,7]
 };

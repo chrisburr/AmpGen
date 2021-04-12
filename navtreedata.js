@@ -58,20 +58,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#a6f78d638e9ffe20ad0c35b835c649105",
-"d3/d23/class_amp_gen_1_1_quark_state.html#ab8c35e44dfc1f3fc9961eb9ab9f6cd20",
-"d4/d2d/class_amp_gen_1_1_fit_result.html#a185ebdeda9df763d30d4c65d2802c32b",
-"d5/da3/class_amp_gen_1_1_a_tan.html",
-"d6/d9d/class_amp_gen_1_1_dynamic_container.html#aeefc717855ee90ad4d14018199189425",
-"d7/deb/class_amp_gen_1_1_gaussian_constraint.html#a7c242b32c9a4dee6bbb860ccf9f625ee",
-"d9/d11/class_amp_gen_1_1_array.html#a893b38bd6350eb8545c722825d641aa6",
-"da/d1b/namespace_amp_gen_1_1_a_v_x512d.html#a770930590a081f5329d29998db93bfa9",
-"db/d37/class_amp_gen_1_1_particle_properties.html#a5a0fd4bb12ba9ff6c2bba582e8b192c2",
-"db/dec/class_amp_gen_1_1_amplitude_rules.html#aa1afe66387b4fe1be457ffcead5d1c3d",
-"dc/d82/namespace_amp_gen.html#a919f18809d0a89c665f4820ec257751e",
-"dd/d4f/class_amp_gen_1_1_a_tan2.html#a1b55a1e8075784c54524d62ad8df046a",
-"de/d96/class_amp_gen_1_1_spline_transfer.html#ad292fba8a58c146f195cfaa8c45752e8",
-"df/db6/namespace_amp_gen_1_1_a_v_x2f.html#a1c496b31b00baed5e6828e6d71144079"
+"d1/d6c/class_amp_gen_1_1_bilinears.html#ad4c467724c135a213548510c3d029904",
+"d3/d23/class_amp_gen_1_1_quark_state.html#a251df454611176b511532eca7379e6bc",
+"d4/d25/_spline_8h.html#a27567aec858b219b309b1a5f8cf3a100",
+"d5/d87/struct_amp_gen_1_1_a_v_x2f_1_1real__v.html#ae2a02696946f632962bf84be68cda8e8",
+"d6/d99/_expression_8h.html#afa42d1a6d1226120596484b419d2fbc8",
+"d7/de2/class_amp_gen_1_1_compiled_expression_3_01ret__type_07arg__types_8_8_8_08_4.html#adb8353370a810ac73c27360be8be8f03",
+"d9/d0f/struct_amp_gen_1_1_tree_phase_space_1_1_vertex.html#ac2928013d64a73f5d54cbd6c7a86a5c2",
+"da/d1b/namespace_amp_gen_1_1_a_v_x512d.html#a32437994904a618e2a87854356ec8ed3",
+"db/d37/class_amp_gen_1_1_particle_properties.html#a164a06862862e7774d3310bdb1ee46de",
+"db/dc8/class_amp_gen_1_1_projection.html#ad3efbc7d1f84fbf38af397f3bda05035",
+"dc/d82/namespace_amp_gen.html#a83790f0431d3e59fbde4552b2b388810",
+"dd/d41/class_amp_gen_1_1_lineshape_1_1_g_spline.html#ac71e7bd0e5e18881f9aebb3ec78717f2",
+"de/d94/class_amp_gen_1_1_ternary.html#a926a0179302788db72bc76ab9097cf21",
+"df/d84/class_amp_gen_1_1_total_coupling.html#a6447eb0b307fe44844e45de5ed84e07f",
+"namespacemembers_z.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

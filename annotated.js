@@ -109,6 +109,10 @@ var annotated =
         [ "V_ff_S1", "d6/d27/struct_amp_gen_1_1_vertex_1_1_v__ff___s1.html", "d6/d27/struct_amp_gen_1_1_vertex_1_1_v__ff___s1" ],
         [ "V_ff_PL", "d5/dcb/struct_amp_gen_1_1_vertex_1_1_v__ff___p_l.html", "d5/dcb/struct_amp_gen_1_1_vertex_1_1_v__ff___p_l" ],
         [ "V_ff_PR", "de/d3d/struct_amp_gen_1_1_vertex_1_1_v__ff___p_r.html", "de/d3d/struct_amp_gen_1_1_vertex_1_1_v__ff___p_r" ],
+        [ "S_VV_rp", "d4/d71/struct_amp_gen_1_1_vertex_1_1_s___v_v__rp.html", "d4/d71/struct_amp_gen_1_1_vertex_1_1_s___v_v__rp" ],
+        [ "S_VV_rm", "de/d14/struct_amp_gen_1_1_vertex_1_1_s___v_v__rm.html", "de/d14/struct_amp_gen_1_1_vertex_1_1_s___v_v__rm" ],
+        [ "S_TV_rp", "d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp.html", "d0/db1/struct_amp_gen_1_1_vertex_1_1_s___t_v__rp" ],
+        [ "S_TV_rm", "d6/df0/struct_amp_gen_1_1_vertex_1_1_s___t_v__rm.html", "d6/df0/struct_amp_gen_1_1_vertex_1_1_s___t_v__rm" ],
         [ "Factory", "db/d97/class_amp_gen_1_1_vertex_1_1_factory.html", "db/d97/class_amp_gen_1_1_vertex_1_1_factory" ]
       ] ],
       [ "Coupling", "d5/db2/class_amp_gen_1_1_coupling.html", "d5/db2/class_amp_gen_1_1_coupling" ],

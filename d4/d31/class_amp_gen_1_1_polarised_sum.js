@@ -19,7 +19,7 @@ var class_amp_gen_1_1_polarised_sum =
     [ "operator()", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a8704b630a26cb528dc2d97a1c3a596ab", null ],
     [ "operator[]", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a0210149ffcb2a0693207502a3ae4fa7f", null ],
     [ "prepare", "d4/d31/class_amp_gen_1_1_polarised_sum.html#ab4952979d26c0d9cf3ea9f6af6fbafea", null ],
-    [ "probExpression", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a49eda6ef64a873468e235588b4aa46ee", null ],
+    [ "probExpression", "d4/d31/class_amp_gen_1_1_polarised_sum.html#ae16a92ff445d697ba1754264edeb624a", null ],
     [ "reset", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a0d01d3abacde2bbda92970e22f28a665", null ],
     [ "setEvents", "d4/d31/class_amp_gen_1_1_polarised_sum.html#adeac6744b617fff76465bbccbcff855b", null ],
     [ "setMC", "d4/d31/class_amp_gen_1_1_polarised_sum.html#a1666a1508333d844f3372c7d15a8ce89", null ],

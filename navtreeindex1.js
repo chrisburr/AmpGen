@@ -1,5 +1,10 @@
 var NAVTREEINDEX1 =
 {
+"d1/d6c/class_amp_gen_1_1_bilinears.html#ad4c467724c135a213548510c3d029904":[3,0,94,8],
+"d1/d6c/class_amp_gen_1_1_bilinears.html#aee58705159e31a9d4c6691943659a6be":[3,0,94,2],
+"d1/d6c/class_amp_gen_1_1_bilinears.html#afb0c29753dd9ba8d0e95557ad176ea94":[3,0,94,3],
+"d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html":[0,4,12],
+"d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#a636635d425473883797935c99ffb8156":[0,4,12,1],
 "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#a6f78d638e9ffe20ad0c35b835c649105":[0,4,12,2],
 "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#af4a6042df7abf083e01365878740a272":[0,4,12,0],
 "d1/d7c/struct_amp_gen_1_1_vertex_1_1_v___v_s___s.html#af6fd3838cc2b757a623d9c6e2d02a283":[0,4,12,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1 =
 "d3/d23/class_amp_gen_1_1_quark_state.html#a1007a226423d558da034e73fa7a8238c":[3,0,115,4],
 "d3/d23/class_amp_gen_1_1_quark_state.html#a15d3bbd895f6b5b76c278304e1b6231b":[3,0,115,10],
 "d3/d23/class_amp_gen_1_1_quark_state.html#a1708cc3f6f6f28c4894a9c9025d93884":[3,0,115,5],
-"d3/d23/class_amp_gen_1_1_quark_state.html#a1d032e0d57b5a24fc98faa8d719b2bd0":[3,0,115,8],
-"d3/d23/class_amp_gen_1_1_quark_state.html#a251df454611176b511532eca7379e6bc":[3,0,115,11],
-"d3/d23/class_amp_gen_1_1_quark_state.html#a3f78dbd705969635e0831e2364981876":[3,0,115,1],
-"d3/d23/class_amp_gen_1_1_quark_state.html#a4890b68a99c413c5fbe381c9a2f5b630":[3,0,115,12],
-"d3/d23/class_amp_gen_1_1_quark_state.html#a4f6c651c186d7baa8ded0ea155f1581c":[3,0,115,0],
-"d3/d23/class_amp_gen_1_1_quark_state.html#ab221233a9cc3cfc696f6c3effec3dbeb":[3,0,115,3]
+"d3/d23/class_amp_gen_1_1_quark_state.html#a1d032e0d57b5a24fc98faa8d719b2bd0":[3,0,115,8]
 };
